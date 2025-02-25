@@ -1,8 +1,16 @@
-### D FlipBook - Lite Edition
-Désactiver
-Interactive 3D FlipBook Powered Physics Engine WordPress Plugin Go Pro
 
-Version 1.16.15 | Par iberezansky | Afficher les détails
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+> xxxx
+
+
+
+> [!NOTE]
+> 3D FlipBook - Lite Edition
+> 
+> Désactiver
+> Interactive 3D FlipBook Powered Physics Engine WordPress Plugin Go Pro
+> Version 1.16.15 | Par iberezansky | Afficher les détails
 
 Sélectionner Akismet Anti-spam: Spam Protection	
 ### Akismet Anti-spam: Spam Protection
