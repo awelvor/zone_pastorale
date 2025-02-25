@@ -17,7 +17,7 @@
 | Elementor Pro | 3.27.4  | 2025-02-22 | 2025-02-22 | 2025-02-22 |
 | 3D FlipBook - Lite Edition | Version 1.16.15 |
 | Akismet Anti-spam| Version 5.3.7 |
-| Complianz  Version 7.3.0 |
+| Complianz | Version 7.3.0 |
 | Duplicate Page | Version 4.5.4 |
 | Duplicator | Version 1.5.11.2 |
 | Elementor | Version 3.27.6 |
