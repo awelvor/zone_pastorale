@@ -1,11 +1,11 @@
-3D FlipBook - Lite Edition
+###3D FlipBook - Lite Edition
 Désactiver
 Interactive 3D FlipBook Powered Physics Engine WordPress Plugin Go Pro
 
 Version 1.16.15 | Par iberezansky | Afficher les détails
 
 Sélectionner Akismet Anti-spam: Spam Protection	
-Akismet Anti-spam: Spam Protection
+###Akismet Anti-spam: Spam Protection
 Réglages | Désactiver
 
 Version 5.3.7 | Par Automattic - Équipe Anti-spam | Afficher les détails
