@@ -30,7 +30,7 @@
 | MWW Scheduled Post Trigger | Version 3.2
 | PDF Poster | Version 2.2.1 |  | Version 2.1.19  | Version 2.1.24  |
 | Popup / Modal Block | Version 0.0.4 |
-| Site Kit de Google | Version 1.146.0 | Version 1.146.0 | Version 1.147.0 |
+| Site Kit de Google | Version 1.146.0 | Version 1.146.0 | Version 1.147.0 | Version 1.147.0 |
 | TablePress |Version 3.0.4  |
 | Use Any Font |  |    |   | Version 6.3.10 |
 | W3 Total Cache |   |  Version 2.8.5 |
