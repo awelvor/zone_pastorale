@@ -24,7 +24,7 @@
 | Firelight Lightbox |  | Version 2.3.11 |
 | Image Optimizer | Version 1.6.5 | Version 1.6.5 |
 | Insert PHP Code Snippet |   | Version 1.4.1 |
-| MailPoet | Version 5.7.1 | Version 5.7.1 | Version 4.43.1  | Version 5.8.0 |
+| MailPoet | Version 5.8.0 | Version 5.7.1 | Version 4.43.1  | Version 5.8.0 |
 | Mapster WP Maps |  |  Version 1.10.0  |
 | Modern Events Calendar Lite | Version 7.20.0 | |   |   Version 7.15.0  |
 | MWW Scheduled Post Trigger | Version 3.2
