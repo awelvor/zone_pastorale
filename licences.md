@@ -35,7 +35,7 @@
 | Use Any Font |  |    |   | Version 6.3.10 |
 | W3 Total Cache |   |  Version 2.8.5 |
 | WP User AvatarVersion | Version 1.4.1 |   |   |  Version 1.4.1 |
-| WPForms Lite | Version 1.9.3.2 |
+| WPForms Lite | Version 1.9.4.1 |
 | WP Menu Icons |   |  Version 3.3.1  |
 | Yoast Duplicate Post |  |  |  | Version 4.5  |
 
