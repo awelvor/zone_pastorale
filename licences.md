@@ -17,7 +17,7 @@
 | Duplicate Page | Version 4.5.4 |  |  Version 4.5.3 |
 | Duplicator | Version 1.5.11.2 |
 | Elementor | Version 3.27.6 | Version 3.27.6 | Version 3.27.6 | Version 3.25.10 | |
-| Elementor Pro | Version 3.27.4 | Version 3.27.4 | Version 3.27.4  |  Version 3.25.4 |
+| Elementor Pro | Version 3.27.5 | Version 3.27.4 | Version 3.27.4  |  Version 3.25.4 |
 | EmbedPress |   |   Version 4.1.10 |
 | Essential Addons for Elementor | | Version 6.1.4 |
 | Essential Blocks |   |  Version 5.3.0 |
